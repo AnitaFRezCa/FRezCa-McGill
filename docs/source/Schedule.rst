@@ -34,7 +34,6 @@ Schedule
      - Library
      
 |
-|
 
 Fall Semester Courses
 ======================
