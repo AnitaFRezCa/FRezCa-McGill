@@ -1,27 +1,24 @@
 Schedule
 ========
 
-Fall 2020 Virtual FRezCa has daily sessions:
+"Library" and "Cafe" events posted on the schedule are open to all U0 and U1 students enrolled in FRezCa courses. U0 and U1 Formal FrezCa sessions will be staffed by TA's, undergraduate student mentors, and occasionally even the course professors. 
 
-.. list-table:: Title
-   :widths: 25 25 50
+
+.. list-table:: Fall 2020 Virtual FRezCa Sessions
+   :widths: 25 25 25 25 25
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+   * - Heading Monday
+     - Heading Tuesday
+     - Heading Wednesday
+     - Heading Thursday
+     - Heading Friday
+   * - U0 Formal FRezCa 2-4pm
+     - U1 Formal FRezCa 2-4pm
+     - U1 Formal FRezCa 2-4pm
+     - Cafe 8am-12pm
+     - U0 Formal FRezCa 2-4pm
 
-Monday -
-Tuesday - 
-Wednesday - 
-Thursday - 
-Friday - 
 
 
 Fall Semester Courses
