@@ -5,7 +5,7 @@ Schedule
 
 
 .. list-table:: Fall 2020 Virtual FRezCa Sessions
-   :widths: 25 25 25 25 25 25
+   :widths: 30 25 25 25 25 25
    :header-rows: 1
    
    * - 
@@ -14,7 +14,7 @@ Schedule
      - Wednesday
      - Thursday
      - Friday
-   * - 8am-12pm
+   * - ** 8am-12pm **
      - 
      - Cafe
      - 
