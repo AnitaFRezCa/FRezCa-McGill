@@ -13,11 +13,11 @@ Schedule
      - Heading Wednesday
      - Heading Thursday
      - Heading Friday
-   * - U0 Formal FRezCa 2-4pm
-     - U1 Formal FRezCa 2-4pm
-     - U1 Formal FRezCa 2-4pm
-     - Cafe 8am-12pm
-     - U0 Formal FRezCa 2-4pm
+   * - 2-4pm: U0 Formal FRezCa
+     - 2-4pm: U1 Formal FRezCa
+     - 2-4pm: U1 Formal FRezCa
+     - 8-12am: Cafe
+     - 2-4pm: U0 Formal FRezCa
 
 
 
