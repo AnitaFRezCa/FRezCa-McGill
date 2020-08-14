@@ -1,10 +1,10 @@
 Schedule
 ========
 
-"Library" and "Cafe" events posted on the schedule are open to all U0 and U1 students enrolled in FRezCa courses. U0 and U1 Formal FrezCa sessions will be staffed by TA's, undergraduate student mentors, and occasionally even the course professors. 
+"Library" and "Cafe" events posted on the schedule are open to all U0 and U1 students enrolled in FRezCa courses. U0 and U1 formal FrezCa sessions will be staffed by TA's, undergraduate student mentors, and occasionally even the course professors. 
 
 
-.. list-table:: Fall 2020 Virtual FRezCa Sessions
+.. list-table:: **Fall 2020 Virtual FRezCa Sessions**
    :widths: 30 25 25 25 25 25
    :header-rows: 1
    
@@ -32,9 +32,9 @@ Schedule
      - Library
      - Library
      - Library
-
-
-
+     
+|
+|
 
 Fall Semester Courses
 ======================
