@@ -3,25 +3,19 @@ Schedule
 
 Fall 2020 Virtual FRezCa has daily sessions:
 
-{| class="wikitable"
-|-
-! Monday
-! Tuesday
-! Wednesday
-|-
-| row 1 cell 1
-| row 1 cell 2
-| row 1 cell 3
-|-
-| row 2 cell 1
-| row 2 cell 2
-| row 2 cell 3
-|}
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
 
-| Monday | Tuesday | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
 
 Monday -
 Tuesday - 
