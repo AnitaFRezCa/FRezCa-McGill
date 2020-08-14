@@ -5,19 +5,28 @@ Schedule
 
 
 .. list-table:: Fall 2020 Virtual FRezCa Sessions
-   :widths: 25 25 25 25 25
+   :widths: 25 25 25 25 25 25
    :header-rows: 1
+ 
+   * - 8am-12pm
+     - 
+     - Cafe
+     - 
+     - Cafe
+     - Cafe
+   * - 2pm-4pm
+     - U0 FRezCa
+     - U1 FRezCa
+     - U0 FRezCa
+     - U1 FRezCa
+     - U0 FRezCa
+   * - 6pm-10pm
+     - Library
+     - Library
+     - Library
+     - Library
+     - Library
 
-   * - Heading Monday
-     - Heading Tuesday
-     - Heading Wednesday
-     - Heading Thursday
-     - Heading Friday
-   * - 2-4pm: U0 Formal FRezCa
-     - 2-4pm: U1 Formal FRezCa
-     - 2-4pm: U1 Formal FRezCa
-     - 8-12am: Cafe
-     - 2-4pm: U0 Formal FRezCa
 
 
 
