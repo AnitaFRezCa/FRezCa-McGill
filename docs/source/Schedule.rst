@@ -14,7 +14,7 @@ Schedule
      - Wednesday
      - Thursday
      - Friday
-   * - ** 8am-12pm **
+   * - **8am-12pm**
      - 
      - Cafe
      - 
