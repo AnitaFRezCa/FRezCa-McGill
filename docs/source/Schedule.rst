@@ -7,7 +7,6 @@ Schedule
 .. list-table:: Fall 2020 Virtual FRezCa Sessions
    :widths: 25 25 25 25 25 25
    :header-rows: 1
-   :header-columns: 1
    
    * - 
      - Monday
