@@ -20,13 +20,13 @@ Schedule
      - 
      - Cafe
      - Cafe     
-   * - 2pm-4pm
+   * - **2pm-4pm**
      - U0 FRezCa
      - U1 FRezCa
      - U0 FRezCa
      - U1 FRezCa
      - U0 FRezCa
-   * - 6pm-10pm
+   * - **6pm-10pm**
      - Library
      - Library
      - Library
